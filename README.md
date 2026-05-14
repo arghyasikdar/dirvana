@@ -19,7 +19,7 @@ Developed by Arghya Sikdar.
 Download or clone the project files:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/arghyasikdar/dirvana.git
 cd dirvana
 ```
 
